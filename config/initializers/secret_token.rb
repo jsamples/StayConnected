@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-StayConnected::Application.config.secret_key_base = '5706bad796901e45642d79e796854980e2f74993acf60d40fb5fe4e9dbdd2c9b37d909b17aeaf72ede9a529fa8111c73dffb960f94f201f963896d1bbbfacd04'
+StayConnected::Application.config.secret_key_base = '34bfa4eb3eebbafe5cef5a165ce6819329f8e02ae000439f5a5c3bfd8138ab8fa7dec301d84169d98e87e63598a2e86fe4ce21e0eed6dcb88a581aec9e05507e'
